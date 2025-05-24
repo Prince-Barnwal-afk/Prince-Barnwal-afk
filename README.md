@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/93/f0/4b/93f04b4b1103cc4e6410bb4f831acb6c.gif)](https://rishavchanda.io)
+![MasterHead](https://i.pinimg.com/originals/93/f0/4b/93f04b4b1103cc4e6410bb4f831acb6c.gif)
 <h1 align="center">Hi 👋, I'm Prince Barnwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/WiqN.gif">
